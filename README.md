@@ -37,6 +37,10 @@ Admin
 Delivery
 
 
+![Delivery_module](https://github.com/user-attachments/assets/f3f7131b-3f4f-41df-a1b8-15f0204a0005)
+
+
+
 features:
 Mobile Screen friendly website.
 chatbot support
