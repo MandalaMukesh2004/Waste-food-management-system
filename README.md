@@ -24,7 +24,7 @@ Overall, the Food Waste Management System is designed to efficiently manage exce
 
 User
 
-![image alt](mobile.jpg)
+![mobile](https://github.com/user-attachments/assets/76ddf927-1b39-4b6c-8fa0-143affab55c1)
 
 
 
