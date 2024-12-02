@@ -71,7 +71,7 @@ Overall, the Food Waste Management System is designed to efficiently manage exce
 
 
 
-How to run
+# How to run
 
 Download the project zip file.
 
