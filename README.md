@@ -67,6 +67,9 @@ Overall, the Food Waste Management System is designed to efficiently manage exce
 
 # chatbot support
 
+![chatbotsupport](https://github.com/user-attachments/assets/77b9358e-1367-4654-9b9e-3b536bd12e14)
+
+
 
 # Secure Login
 
