@@ -61,6 +61,10 @@ Overall, the Food Waste Management System is designed to efficiently manage exce
 # Mobile Screen friendly website.
 
 
+![responsive](https://github.com/user-attachments/assets/9667f032-316d-4e4d-8de9-84bbdb286366)
+
+
+
 # chatbot support
 
 
